@@ -1,6 +1,6 @@
 Política de Privacidad - Calculadora de Préstamos (LoanCalc)
 
-Última actualización: 10/1/2025
+Última actualización: 28/1/2026
 
 Esta Política de Privacidad describe cómo ospanacar recopila, utiliza y protege la información de los usuarios
 en las aplicaciones LoanCalc y LoanCalc Pro (en adelante, "la Aplicación").
@@ -64,7 +64,7 @@ Si tienes preguntas sobre esta Política de Privacidad, puedes contactarnos en o
 
 Privacy Policy - Loan Calculator (LoanCalc)
 
-Last updated: 1/10/2025
+Last updated: 1/28/2026
 
 This Privacy Policy describes how ospanacar collects, uses, and protects user information 
 in the LoanCalc and LoanCalc Pro applications (hereinafter, "the Application").
